@@ -15,6 +15,8 @@ My approach is:
 | 03 | Interactive Counter | Events, onClick, onChange, onSubmit, Event Object |
 | 04 | Todo App | useState, State, Setter Functions, Re-rendering, Previous State, Objects & Arrays |
 | 05 | Product Listing | Conditional Rendering, Lists, map(), Keys, Empty & Loading States |
+| 06 | Registration Form | Controlled inputs, value onChange onSubmit, Validation, Form state |
+| 07 | Temperature Converter | Lifting State Up, Shared state, Parent as source of truth, Callbacks between components |
 
 ## Tech Stack
 
