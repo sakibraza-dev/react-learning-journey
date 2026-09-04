@@ -17,6 +17,7 @@ My approach is:
 | 05 | Product Listing | Conditional Rendering, Lists, map(), Keys, Empty & Loading States |
 | 06 | Registration Form | Controlled inputs, value onChange onSubmit, Validation, Form state |
 | 07 | Temperature Converter | Lifting State Up, Shared state, Parent as source of truth, Callbacks between components |
+| 08 | Clock Stopwatch | useEffect, Dependency array, Cleanup |
 
 ## Tech Stack
 
