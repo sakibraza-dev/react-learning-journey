@@ -19,6 +19,7 @@ My approach is:
 | 07 | Temperature Converter | Lifting State Up, Shared state, Parent as source of truth, Callbacks between components |
 | 08 | Clock Stopwatch | useEffect, Dependency array, Cleanup |
 | 09 | fetch | async/await | Loading | Error | Empty result | API response data |
+| 10 | DOM refs | Focus | Persistent mutable values | useRef vs useState |
 
 ## Tech Stack
 
