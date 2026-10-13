@@ -21,6 +21,7 @@ My approach is:
 | 09 | fetch | async/await | Loading | Error | Empty result | API response data |
 | 10 | DOM refs | Focus | Persistent mutable values | useRef vs useState |
 | 11 |  createContext | Provider | useContext | Prop drilling |
+| 12 |  Reducer | Actions | Dispatch | State transitions |
 
 ## Tech Stack
 
