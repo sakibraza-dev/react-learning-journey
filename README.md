@@ -22,6 +22,7 @@ My approach is:
 | 10 | DOM refs | Focus | Persistent mutable values | useRef vs useState |
 | 11 |  createContext | Provider | useContext | Prop drilling |
 | 12 |  Reducer | Actions | Dispatch | State transitions |
+| 13 | React Router | BrowserRouter | Routes and Route | Client-side routing |
 
 ## Tech Stack
 
